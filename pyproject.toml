@@ -7,7 +7,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-
+roboflow = "^1.1.30"
+opencv-python-headless = "4.8.0.76"
 
 [build-system]
 requires = ["poetry-core"]
